@@ -6,8 +6,8 @@
 package gitdemo;
 
 /**
- *
- * @author Megha
+ * my first git demo
+ * @author Megha,2019
  */
 public class GitDemo {
 
